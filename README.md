@@ -1,3 +1,4 @@
 # Python
 
-You will find my python scripts with their subjects
+My pyhton scripts. Licence IT 
+
